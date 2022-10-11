@@ -12,6 +12,6 @@ void main()
     {
         celcius = 5*(far-32) / 9 ;
         printf("%d\t""%d\n", far, celcius);
-        far - far + step;
+        far = far + step;
     }
 }
